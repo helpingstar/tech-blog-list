@@ -1,7 +1,5 @@
 # tech-blog-list
 
-[NC소프트](https://blog.ncsoft.com/rd/all/)
-
 [네이버 D2](https://d2.naver.com/home)
 
 [카카오 테크](https://tech.kakao.com/blog/)
@@ -11,6 +9,16 @@
 [쿠팡 엔지니어링](https://medium.com/coupang-engineering/kr/home)
 
 [우아한형제들 기술블로그](https://techblog.woowahan.com/)
+
+# 게임
+
+[NC소프트](https://blog.ncsoft.com/rd/all/)
+
+[넷마블](https://netmarble.engineering/)
+
+[넥슨](https://www.intelligencelabs.tech/)
+
+# 스타트업
 
 [몰로코 블로그](https://m.blog.naver.com/PostList.naver?blogId=molocokorea)
 
