@@ -12,7 +12,7 @@
 
 # 게임
 
-[NC소프트](https://blog.ncsoft.com/rd/all/)
+[NC소프트](https://about.ncsoft.com/news/rd)
 
 [넷마블](https://netmarble.engineering/)
 
